@@ -1,0 +1,1 @@
+My first project with processing. It is a prototype for a game, which I developed for a game course. [ CONTROLS ] - Left mouse button to select and drag block - Switch blocks by selecting a block and drag it onto another block - Hit spacebar to quick-move the walls to the center - ESC to quit level
